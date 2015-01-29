@@ -30,3 +30,6 @@ To use image-adapter add class img-adapter to your images.
 
 
 <script type="text/javascript" src="demo/js/image-adapter.min.js"></script>
+
+#Screenshots
+
