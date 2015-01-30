@@ -25,7 +25,7 @@ You can download the code here and enjoy it.
 
 To use image-adapter add class img-adapter to your images.
 
-	&lt;img class="img-adapter" src="images/test-image.jpg"/&gt;
+	<img class="img-adapter" src="images/test-image.jpg"/>
 
 
 #Screenshots
