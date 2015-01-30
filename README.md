@@ -41,3 +41,7 @@ To use image-adapter add class img-adapter to your images.
 
 ![Vertical image screenshot](https://raw.githubusercontent.com/workoholics/image-adapter/master/screenshots/screenshot_2.png "Vertical image screenshot")
 
+##Fullscreen image
+
+![Vertical image screenshot](https://raw.githubusercontent.com/workoholics/image-adapter/master/screenshots/full_width_screenshot.png "Fullscreen image screenshot")
+
