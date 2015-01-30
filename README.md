@@ -30,3 +30,11 @@ To use image-adapter add class img-adapter to your images.
 
 #Screenshots
 
+##Horizontal image
+
+![Horizontal image screenshot](screenshots/screenshot_1.jpg "Horizontal image screenshot")
+
+##Vertical image
+
+![Vertical image screenshot](screenshots/screenshot_2.jpg "Vertical image screenshot")
+
