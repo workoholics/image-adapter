@@ -35,13 +35,15 @@ To use image-adapter add class img-adapter to your images.
 
 ##Horizontal image
 
-![Horizontal image screenshot](https://raw.githubusercontent.com/workoholics/image-adapter/master/screenshots/screenshot_1.png "Horizontal image screenshot")
+[<img src="https://raw.githubusercontent.com/workoholics/image-adapter/master/screenshots/screenshot_1.png">](http://workoholics.github.io/image-adapter)
 
 ##Vertical image
 
-![Vertical image screenshot](https://raw.githubusercontent.com/workoholics/image-adapter/master/screenshots/screenshot_2.png "Vertical image screenshot")
+[<img src="https://raw.githubusercontent.com/workoholics/image-adapter/master/screenshots/screenshot_2.png">](http://workoholics.github.io/image-adapter)
 
 ##Fullscreen image
 
-![Vertical image screenshot](https://raw.githubusercontent.com/workoholics/image-adapter/master/screenshots/full_width_screenshot.png "Fullscreen image screenshot")
+[<img src="https://raw.githubusercontent.com/workoholics/image-adapter/master/screenshots/full_width_screenshot.png">](http://workoholics.github.io/image-adapter/fullpage.html)
+
+
 
