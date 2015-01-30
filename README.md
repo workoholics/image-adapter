@@ -1,10 +1,13 @@
 
-#Image Adapter Plugin Demo
+#Image Adapter Plugin
 
 This JavaScript plugin adapts an image to his parent element without cropping it.
-By Worköholics.
+By [Worköholics](http://www.workoholics.es "Worköholics").
 
-Images from Unsplash
+##Demo
+
+To view the demo please click [here](http://workoholics.github.io/image-adapter/ "Image Adapter Demo").
+
 ##Getting started
 ###Install with Bower
 
