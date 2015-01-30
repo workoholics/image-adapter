@@ -10,7 +10,7 @@ Images from Unsplash
 
 You can install image-adapter using Bower.
 
-$ bower install image-adapter --save
+	$ bower install image-adapter --save
 
 ###Use the CDN
 
