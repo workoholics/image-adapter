@@ -32,9 +32,9 @@ To use image-adapter add class img-adapter to your images.
 
 ##Horizontal image
 
-![Horizontal image screenshot](screenshots/screenshot_1.jpg "Horizontal image screenshot")
+![Horizontal image screenshot](https://raw.githubusercontent.com/workoholics/image-adapter/master/screenshots/screenshot_1.png "Horizontal image screenshot")
 
 ##Vertical image
 
-![Vertical image screenshot](screenshots/screenshot_2.jpg "Vertical image screenshot")
+![Vertical image screenshot](https://raw.githubusercontent.com/workoholics/image-adapter/master/screenshots/screenshot_2.png "Vertical image screenshot")
 
