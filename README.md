@@ -16,7 +16,7 @@ You can install image-adapter using Bower.
 
 You can use GitHub CDN.
 
-	&lt;script src="https://raw.githubusercontent.com/workoholics/image-adapter/master/dist/image-adapter.js"&gt;&lt;/script&gt;
+	<script src="https://raw.githubusercontent.com/workoholics/image-adapter/master/dist/image-adapter.js"></script>
 
 ###Download code
 
