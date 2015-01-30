@@ -8,7 +8,6 @@ By [Worköholics](http://www.workoholics.es "Worköholics").
 
 To view the demo please click [here](http://workoholics.github.io/image-adapter/ "Image Adapter Demo").
 
-Images from Unsplash
 ##Getting started
 ###Install with Bower
 
