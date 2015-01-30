@@ -41,6 +41,11 @@ small
 	font-size: 75%;
 }
 
+.btn span.fa
+{
+	padding: 0 10px 0 0;
+}
+
 @media screen and (max-width: 768px){
 .horizontal-element
 {
