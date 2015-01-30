@@ -12,6 +12,58 @@
 	margin: 0 auto;
 }
 
+.full-width-element
+{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	z-index: 0;
+	top: 0;
+	left: 0;
+}
+
+.full-body
+{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+}
+
+.full-text
+{
+	color: #fff;
+	position: relative;
+	z-index: 1;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+.full-text .btn
+{
+	margin-bottom: 15px;
+}
+
+.full-text h1
+{
+	font-size: 60px;
+}
+.full-text p
+{
+	font-size: 25px;
+}
+.full-text h1, .full-text p
+{
+	text-shadow: 2px 2px 1px rgba(0,0,0,0.8);
+}
+
+footer.full-footer
+{
+	position: absolute;
+	bottom: 0;
+	background: transparent;
+	width: 100%;
+}
+
 footer
 {
 	margin-top: 50px;
