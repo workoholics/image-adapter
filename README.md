@@ -8,7 +8,7 @@ By [Worköholics](http://www.workoholics.es "Worköholics").
 
 To view the demo please click [here](http://workoholics.github.io/image-adapter/ "Image Adapter Demo").
 
-##Getting started
+##Getting started with Image Adapter
 ###Install with Bower
 
 You can install image-adapter using Bower.
